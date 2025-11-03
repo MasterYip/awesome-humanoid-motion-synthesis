@@ -130,7 +130,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[PHC (Perpetual Humanoid Control)](https://arxiv.org/abs/2305.08716)** - Luo et al., 2023
   - Real-time simulated avatars with universal tracking policy on AMASS dataset (99% success rate)
 
-- **[Supertrack](https://dl.acm.org/doi/10.1145/3450626.3459670)** - Fussell et al., 2021
+- **[Supertrack](https://dl.acm.org/doi/10.1145/3450626.3459683)** - Fussell et al., 2021
   - Motion tracking for physically simulated characters using supervised learning
 
 ### 4.3 Specialized Motion Tracking
@@ -161,7 +161,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[AMASS (Archive of Motion Capture as Surface Shapes)](https://arxiv.org/abs/1904.03278)** - Mahmood et al., 2019
   - Large-scale unified motion capture dataset used for training universal controllers
 
-- **[HumanML3D](https://arxiv.org/abs/2203.08063)** - Guo et al., 2022
+- **[HumanML3D](https://arxiv.org/abs/2207.01696)** - Guo et al., 2022
   - Text-to-motion benchmark with diverse natural 3D human motions and text descriptions
 
 ## 6. Foundation Models and Encoders
@@ -184,8 +184,11 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[DDPM (Denoising Diffusion Probabilistic Models)](https://arxiv.org/abs/2006.11239)** - Ho et al., 2020
   - Foundation of diffusion-based generative models
 
-- **[Score-Based Generative Models](https://arxiv.org/abs/1907.05600)** - Sohl-Dickstein et al., 2015
-  - Deep unsupervised learning using nonequilibrium thermodynamics
+- **[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)** - Sohl-Dickstein et al., 2015
+  - Foundation of diffusion models using nonequilibrium thermodynamics
+
+- **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** - Song & Ermon, 2019
+  - Score-based generative models using Langevin dynamics
 
 - **[Improved Techniques for Training Score-Based Models](https://arxiv.org/abs/2006.09011)** - Song & Ermon, 2020
   - Enhanced training techniques for score-based generative models
