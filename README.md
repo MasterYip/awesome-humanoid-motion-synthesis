@@ -23,6 +23,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[MoMo](https://arxiv.org/abs/2406.06508)** - Raab et al., 2024a
   - Zero-shot motion transfer using self-attention in motion diffusion ("Monkey see, monkey do")
 
+FIXME
 - **[MAS (Multi-view Ancestral Sampling)](https://arxiv.org/abs/2312.14435)** - Kapon et al., 2024
   - Multi-view approach for 3D motion generation using 2D diffusion
 
@@ -30,9 +31,10 @@ A curated list of works for legged robot(humanoid) motion synthesis.
   - Training diffusion models on single motion examples for generalization
 
 ### 1.3 Auto-Regressive Diffusion Models
+FIXME
 - **[A-MDM](https://arxiv.org/abs/2306.14990)** - Shi et al., 2024
   - Interactive character control with auto-regressive motion diffusion models
-
+FIXME
 - **[CAMDM (Taming Diffusion)](https://arxiv.org/abs/2404.15462)** - Chen et al., 2024
   - Taming diffusion probabilistic models for character control with real-time capabilities
 
@@ -48,7 +50,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 
 - **[Iterative Motion Editing with Natural Language](https://arxiv.org/abs/2312.11538)** - Goel et al., 2024
   - Natural language-driven iterative motion editing framework
-
+FIXME
 - **[Optimizing Diffusion Noise as Motion Priors](https://arxiv.org/abs/2312.11509)** - Karunratanakul et al., 2024
   - Universal motion priors through diffusion noise optimization
 
@@ -68,6 +70,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
   - Language-guided human motion generation with scene affordance
 
 ### 2.2 Human-Scene Interaction (HSI)
+FIXME
 - **[Generating Human Motion in 3D Scenes](https://arxiv.org/abs/2405.11154)** - Cen et al., 2024
   - Generating human motion in 3D scenes from text descriptions
 
@@ -78,6 +81,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
   - Neural object interaction fields for guided human motion synthesis
 
 ### 2.3 Physics-Based Scene Interaction
+FIXME
 - **[Diffusion-based Generation in 3D Scenes](https://arxiv.org/abs/2301.00398)** - Huang et al., 2023
   - Diffusion-based generation, optimization, and planning in 3D scenes
 
@@ -86,7 +90,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 ### 3.1 Language-Directed Physics Control
 - **[PADL (Physics And Deep Learning)](https://doi.org/10.1145/3550469.3555391)** - Juravsky et al., 2022
   - Language-directed physics-based character control with simple instructions
-
+FIXME
 - **[SuperPADL](https://arxiv.org/abs/2401.11238)** - Juravsky et al., 2024
   - Scaling language-directed physics control with progressive supervised distillation
 
@@ -116,27 +120,28 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 ### 4.1 Deep Reinforcement Learning for Imitation
 - **[DeepMimic](http://doi.acm.org/10.1145/3197517.3201311)** - Peng et al., 2018
   - Example-guided deep RL for physics-based character skills with single-clip tracking
-
+FIXME
 - **[Trajectory Optimization for Full-Body Movements](https://ieeexplore.ieee.org/document/6095523)** - Al Borno et al., 2012
   - Early work on trajectory optimization with complex contacts
-
+FIXME
 - **[Physics-Based Motion Capture Imitation](https://dl.acm.org/doi/10.1145/3281659)** - Chentanez et al., 2018
   - Physics-based motion capture imitation with deep RL
 
 ### 4.2 Large-Scale Motion Tracking
+FIXME
 - **[A Scalable Approach to Control Diverse Behaviors](https://dl.acm.org/doi/10.1145/3386569.3392381)** - Won et al., 2020
   - Scaling to larger datasets for physically simulated character control
-
+FIXME
 - **[PHC (Perpetual Humanoid Control)](https://arxiv.org/abs/2305.08716)** - Luo et al., 2023
   - Real-time simulated avatars with universal tracking policy on AMASS dataset (99% success rate)
-
+FIXME: this is amp
 - **[Supertrack](https://dl.acm.org/doi/10.1145/3450626.3459670)** - Fussell et al., 2021
   - Motion tracking for physically simulated characters using supervised learning
 
 ### 4.3 Specialized Motion Tracking
 - **[Dynamics-Regulated Kinematic Policy](https://arxiv.org/abs/2106.05969)** - Luo et al., 2021
   - Egocentric pose estimation with dynamics regulation
-
+FIXME
 - **[Embodied Scene-Aware Human Pose Estimation](https://arxiv.org/abs/2206.03694)** - Luo et al., 2022
   - Scene-aware pose estimation for embodied agents
 
@@ -160,12 +165,12 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 
 - **[AMASS (Archive of Motion Capture as Surface Shapes)](https://arxiv.org/abs/1904.03278)** - Mahmood et al., 2019
   - Large-scale unified motion capture dataset used for training universal controllers
-
+FIXME
 - **[HumanML3D](https://arxiv.org/abs/2203.08063)** - Guo et al., 2022
   - Text-to-motion benchmark with diverse natural 3D human motions and text descriptions
 
 ## 6. Foundation Models and Encoders
-
+FIXME
 - **[CLIP (Contrastive Language-Image Pre-training)](https://arxiv.org/abs/2103.00020)** - Radford et al., 2021
   - Learning transferable visual models from natural language supervision
 
@@ -183,7 +188,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 ### 7.1 Diffusion Models
 - **[DDPM (Denoising Diffusion Probabilistic Models)](https://arxiv.org/abs/2006.11239)** - Ho et al., 2020
   - Foundation of diffusion-based generative models
-
+FIXME
 - **[Score-Based Generative Models](https://arxiv.org/abs/1907.05600)** - Sohl-Dickstein et al., 2015
   - Deep unsupervised learning using nonequilibrium thermodynamics
 
@@ -198,6 +203,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
   - High definition video generation with diffusion models
 
 ### 7.3 Reinforcement Learning
+FIXME
 - **[PPO (Proximal Policy Optimization)](http://dblp.uni-trier.de/db/journals/corr/corr1707.html#SchulmanWDRK17)** - Schulman et al., 2017
   - Policy optimization algorithm used for training tracking controllers
 
