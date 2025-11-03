@@ -130,7 +130,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[PHC (Perpetual Humanoid Control)](https://arxiv.org/abs/2305.08716)** - Luo et al., 2023
   - Real-time simulated avatars with universal tracking policy on AMASS dataset (99% success rate)
 
-- **[Supertrack](https://dl.acm.org/doi/10.1145/3450626.3459670)** - Fussell et al., 2021
+- **[Supertrack](https://dl.acm.org/doi/10.1145/3450626.3459683)** - Fussell et al., 2021
   - Motion tracking for physically simulated characters using supervised learning
 
 ### 4.3 Specialized Motion Tracking
@@ -161,7 +161,7 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[AMASS (Archive of Motion Capture as Surface Shapes)](https://arxiv.org/abs/1904.03278)** - Mahmood et al., 2019
   - Large-scale unified motion capture dataset used for training universal controllers
 
-- **[HumanML3D](https://arxiv.org/abs/2203.08063)** - Guo et al., 2022
+- **[HumanML3D](https://arxiv.org/abs/2207.01696)** - Guo et al., 2022
   - Text-to-motion benchmark with diverse natural 3D human motions and text descriptions
 
 ## 6. Foundation Models and Encoders
