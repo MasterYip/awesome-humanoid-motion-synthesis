@@ -184,8 +184,11 @@ A curated list of works for legged robot(humanoid) motion synthesis.
 - **[DDPM (Denoising Diffusion Probabilistic Models)](https://arxiv.org/abs/2006.11239)** - Ho et al., 2020
   - Foundation of diffusion-based generative models
 
-- **[Score-Based Generative Models](https://arxiv.org/abs/1907.05600)** - Sohl-Dickstein et al., 2015
-  - Deep unsupervised learning using nonequilibrium thermodynamics
+- **[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)** - Sohl-Dickstein et al., 2015
+  - Foundation of diffusion models using nonequilibrium thermodynamics
+
+- **[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)** - Song & Ermon, 2019
+  - Score-based generative models using Langevin dynamics
 
 - **[Improved Techniques for Training Score-Based Models](https://arxiv.org/abs/2006.09011)** - Song & Ermon, 2020
   - Enhanced training techniques for score-based generative models
