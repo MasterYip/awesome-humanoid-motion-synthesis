@@ -1,6 +1,9 @@
 # awesome-humanoid-motion-synthesis
 A curated list of works for legged robot(humanoid) motion synthesis.
 
+> [!NOTE]
+> This repo is still under construction. Links may not be correct.
+
 ## 1. Data-Driven Motion Synthesis
 
 ### 1.1 Text-to-Motion Diffusion Models
