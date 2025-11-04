@@ -2,8 +2,16 @@
 
 A curated list of works for legged robot(humanoid) motion synthesis.
 
-> [!NOTE]
+> [!WARNING]
 > This repo is still under construction. Links may not be correct.
+
+> [!NOTE]
+> We are now collecting classified literatures through `Related Works` sections of recent papers.
+
+## Literature from recent papers' `Related Works`
+
+- [CLoSD: Closing the Loop between Simulation and Diffusion for Multi-Task Character Control](doc/RelWork_CLOSD.md)
+- [Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control](doc/RelWork_DiffuseCLOC.md)
 
 ## 1. Data-Driven Motion Synthesis
 
